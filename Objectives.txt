@@ -1,8 +1,0 @@
-Client Problem 1:
-How accurately can we predict the sensory quality score (0-10) of a wine using its measured physicochemical properties (like acidity, sugar, alcohol, etc.)?
-
-Client Problem 2:
-Which specific physicochemical factors (e.g., volatile acidity, pH, sulphates, alcohol content) have the most significant positive or negative influence on the perceived quality rating of wine, and can we quantify this impact?
-
-Client Problem 3:
-Can we develop a reliable classification model to distinguish between wines perceived as 'high quality' (e.g., quality score > 6 or 7) and those perceived as 'standard quality' (e.g., quality score <= 6 or 7) based solely on their physicochemical test results?
